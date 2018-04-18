@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/azure/cosmos-db/tutorial-develop-documentdb-dotnet
+
+https://github.com/mikepfeiffer/movieapp-documentdb

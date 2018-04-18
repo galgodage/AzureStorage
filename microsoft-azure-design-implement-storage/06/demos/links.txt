@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/azure/sql-database/sql-database-automated-backups
+
+https://docs.microsoft.com/en-us/azure/sql-database/sql-database-recovery-using-backups

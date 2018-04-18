@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/azure/redis-cache/cache-faq#what-redis-cache-offering-and-size-should-i-use
+
+https://docs.microsoft.com/en-us/azure/redis-cache/cache-how-to-premium-persistence
+
+https://redisdesktop.com/
